@@ -21,7 +21,7 @@ This project is well-suited for **data analysts and beginners** looking to stren
 ## 📊 Dataset Information
 - **Dataset Source:** Kaggle  
 - **Dataset Link:**  
-  https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets--BUSINESS-PROBLEM  
+  [https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets--BUSINESS-PROBLEM  ](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 - **Records:** ~10,000 sales transactions  
 - **Format:** CSV  
 
