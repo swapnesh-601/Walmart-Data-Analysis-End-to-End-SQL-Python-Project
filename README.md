@@ -1,4 +1,12 @@
 # Walmart-Data-Analysis-End-to-End-SQL-Python-Project
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Project](https://img.shields.io/badge/Project-Data%20Analysis-success)
+
 Walmart Data Analysis is an end-to-end project using Python and SQL to clean, transform, and analyze Walmart sales data. It answers key business questions on revenue, sales trends, payment methods, customer behavior, and profit analysis using MySQL and PostgreSQL.
 
 <img width="1452" height="760" alt="Walmart Project" src="https://github.com/user-attachments/assets/86cd0990-6274-4e0c-a16e-24ab7ed76ceb" />
